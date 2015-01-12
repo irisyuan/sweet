@@ -1,0 +1,26 @@
+{
+  "name": "sweet",
+  "version": "0.0.1",
+  "authors": [
+    "Iris Yuan"
+  ],
+  "description": "responsive grid",
+  "main": "app.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "responsive",
+    "grid"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/irisyuan/sweet",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

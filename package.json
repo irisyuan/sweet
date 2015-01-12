@@ -1,0 +1,34 @@
+{
+  "name": "sweet",
+  "version": "0.0.1",
+  "description": "responsive grid framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/irisyuan/sweet"
+  },
+  "keywords": [
+    "responsive",
+    "grid"
+  ],
+  "author": "Iris Yuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irisyuan/sweet/issues"
+  },
+  "homepage": "https://github.com/irisyuan/sweet",
+  "dependencies": {
+    "express": "^4.10.7",
+    "handlebars": "^2.0.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-sass": "^0.17.0",
+    "grunt-scss-lint": "^0.3.4"
+  }
+}
